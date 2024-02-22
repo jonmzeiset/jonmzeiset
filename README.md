@@ -9,7 +9,6 @@ When I work on a project, I do it in small steps. This way, I make sure everythi
 - Back-End Development: Python, Django, Flask, FastAPI
 - Front-End Development: HTML5, CSS, JavaScript, TypeScript, React, Vue.js
 - Database Management: PostgreSQL, MySQL, MongoDB
-- Unit Testing: NUnit, MSTest, xUnit.
 - Cloud Services: AWS, GCP, Azure
 - DevOps Tools: Docker, Kubernetes
 - Version Control: Git, GitHub, Bitbucket, GitLab
