@@ -1,4 +1,4 @@
-## Full Stack Python Developer with Django, React, and Vue.js Expertise
+## Overview
 
 I'm a full-stack developer who loves building websites and web apps. I mainly work with Python and its frameworks like Django, Flask, and FastAPI for back-end development and use React and Vue.js for front-end development. I also have experience with Artificial Intelligence (AI), in which I can create advanced features like smart recommendations, better search options, and automated tasks, using Machine Learning (ML) and data analysis.
 
