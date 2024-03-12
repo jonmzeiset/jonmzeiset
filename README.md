@@ -1,18 +1,17 @@
 ## Overview
 
-I'm a full-stack developer who loves building websites and web apps. I mainly work with Python and its frameworks like Django, Flask, and FastAPI for back-end development and use React and Vue.js for front-end development. I also have experience with Artificial Intelligence (AI), in which I can create advanced features like smart recommendations, better search options, and automated tasks, using Machine Learning (ML) and data analysis.
-
-When I work on a project, I do it in small steps. This way, I make sure everything is done on time, and you always know what's going on. I also explain things in a simple way, so you won't get confused by technical terms. I'm ready to jump into your project and make sure it does exactly what you need, in a way that's easy and clear.
-
-## Skills
+Kevin is an experienced Full Stack Developer with 10+  years of experience building websites and web applications. He has been working with Python frameworks such as Django, Flask, and FastAPI for back-end development and JavaScript frameworks such as React and Vue.js for front-end development. Below you can see his technical skills in detail:
 
 - Back-End Development: Python, Django, Flask, FastAPI
-- Front-End Development: HTML5, CSS, JavaScript, TypeScript, React, Vue.js
-- Database Management: PostgreSQL, MySQL, MongoDB
-- Cloud Services: AWS, GCP, Azure
-- DevOps Tools: Docker, Kubernetes
-- Version Control: Git, GitHub, Bitbucket, GitLab
-- Project Management Tools: Jira, Trello, Asana, ClickUp
+- Front-End Development: React, Vue.js, HTML5, CSS, JavaScript, TypeScript, Tailwind CSS
+- Databases: PostgreSQL, MySQL, MongoDB
+- API Development & Integration: RESTful API, GraphQL
+- Unit Testing: Pytest, PyUnit, Unittest
+- Cloud Platforms: AWS, GCP, Heroku, Vercel, Netlify
+- DevOps Tools: Git, Docker, Jenkins, Kubernetes, Terraform
+
+When Kevin works on a project, he does it in small steps. This way, he ensures everything is done on time and always knows what's going on. He's ready to jump into your project and will do exactly what you need, in a way that's easy and clear.
+
 
 ## My Stats
 <p>
