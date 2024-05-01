@@ -1,19 +1,13 @@
 ## About Me
 
-James is a Full Stack Python Developer with over 10 years of experience and specifically have expertise in Django, React, and Vue.js. He also has in-depth knowledge of Artificial Intelligence (AI) and Machine Learning (ML) so he can build software better for people.
+Jonathan has over 10 years of experience in software development and specializes in Python (Django, Flask, FastAPI), Java (Spring Boot), and JavaScript (React, Vue.js). He's skilled in various aspects of software development, including backend development, web development, and application architecture. With a proven track record of successful projects, he has delivered high-quality solutions that meet client requirements and exceed expectations.
 
-- Back-End Development: Python, Django, Flask, FastAPI
-- Front-End Development: React, Vue.js, HTML5, CSS, JavaScript, TypeScript, Tailwind CSS
-- Databases: PostgreSQL, MySQL, MongoDB
-- API Development & Integration: RESTful API, GraphQL
-- Unit Testing: Pytest, PyUnit, Unittest
-- Cloud Platforms: AWS, GCP, Heroku, Vercel, Netlify
-- DevOps Tools: Git, Docker, Jenkins, Kubernetes, Terraform
+Jonathan is also committed to learning the latest technologies and best practices in software engineering and he's passionate about solving complex problems and driving innovation.
 
 ## My Stats
 <p>
-<a href="https://github.com/jamsgibbs">
+<a href="https://github.com/jonzeiset">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamsgibbs&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonzeiset&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
